@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/quoteApp/static/js/main.5a2c4dad.js",
+    "index.html": "/quoteApp/index.html",
+    "main.5a2c4dad.js.map": "/quoteApp/static/js/main.5a2c4dad.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5a2c4dad.js"
+  ]
+}
